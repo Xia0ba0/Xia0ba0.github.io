@@ -243,7 +243,7 @@ comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Utterances/Facebook Comments
   use:
-    - utterances
+    - Utterances
   # - Valine
   # - Disqus
   text: true # Display the comment name next to the button
